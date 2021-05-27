@@ -1,0 +1,2 @@
+# MiningPlugin
+[PMMP] MiningPlugin
