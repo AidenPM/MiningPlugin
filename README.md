@@ -1,2 +1,2 @@
 # MiningPlugin
-[PMMP] MiningPlugin
+[PMMP] It Implements Mining System
